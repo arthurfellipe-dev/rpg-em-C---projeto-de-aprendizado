@@ -16,13 +16,13 @@ make run
 
 
 Esse projeto foi desenvolvido inicialmente apenas por diversão
-e aplicar alguns conceitos que eu estava estudando na época tudo junto.
+e aplicar alguns conceitos que eu estava estudando na época todos juntos.
 
 foi bem legal desenvolver ele, obvio que deu bastante problema
 principalmente pela minha falta de conhecimento(no inicio estava tudo no main
 com mais de 30 variáveis globais e sem struct)
 
-aprendi bastante, e é isso que importa, algumas partes não lógicas foram feitas por ia,
+algumas partes não lógicas foram feitas por ia,
 quais vou deixar claro mais a frente
 
 
@@ -176,6 +176,5 @@ rpg.h {
 
 7. Sobre mim
  
-    sou um estudante do IFBA, me chamo ########, bom, não posso dizer,
-    digamos que meu nome em jogos seja Rapozitav2 (minecraft etc)
+    sou um estudante do IFBA - ensino médio, me chamo Arthur Fellipe e recentemente a programação entrou na minha vida
 
