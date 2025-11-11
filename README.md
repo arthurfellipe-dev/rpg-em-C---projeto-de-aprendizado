@@ -1,5 +1,7 @@
 # rpg-em-C---projeto-de-aprendizado
 ![Licença: MIT-NC](https://img.shields.io/badge/Licen%C3%A7a-MIT--NC-blue)
+![Status: Em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Linguagem: C](https://img.shields.io/badge/Linguagem-C-brightgreen)
 
 0. Compilação
 
