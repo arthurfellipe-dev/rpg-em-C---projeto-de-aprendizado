@@ -2,7 +2,7 @@
 
 0. Compilação
 
-   ## Compilação manual
+## Compilação manual
 gcc src/*.c -I include -o rpg
 ./rpg
 
