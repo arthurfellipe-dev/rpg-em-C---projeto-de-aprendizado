@@ -130,16 +130,22 @@ rpg.h {
     aprender e fazer algo que gosto:
 
     void entradaBossFinal();
+   
     void finalDoJogo();
+   
     void introducaoCombate();
+   
     void introducaoLoja();
+   
     void morteBoss();
+   
     void imprimirLevelUp(struct jogador *player);
+   
     void imprimirCritico();
 
     não vi problema em usar nessas partes pois, são apenas printf, foi uma questão apenas de otimização de tempo
 
-5. Possíveis Expansões Futuras
+6. Possíveis Expansões Futuras
 
 
     se esse tópico estiver vazio, implantei tudo que queria, caso não, ficaria feliz em ter seu apoio!!
