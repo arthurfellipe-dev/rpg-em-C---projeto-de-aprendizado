@@ -1,4 +1,5 @@
 # rpg-em-C---projeto-de-aprendizado
+![Licença: MIT-NC](https://img.shields.io/badge/Licen%C3%A7a-MIT--NC-blue)
 
 0. Compilação
 
